@@ -1,0 +1,4 @@
+aiohttp~=3.8.4
+sqlalchemy==1.4.44
+more_itertools
+requests~=2.28.2
